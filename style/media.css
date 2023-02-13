@@ -1,0 +1,70 @@
+@media only screen  and (max-width:1180px){
+    header{
+
+        gap: 10vw;
+        flex-wrap: wrap-reverse;
+        
+    }
+    nav{
+        margin: auto;
+        flex-wrap: wrap;
+    }
+    .shop_contact_blocks{
+        margin: auto;
+    }
+    .logo_div{
+     margin: auto;      
+    }
+    main{
+        flex-direction: column;
+        padding-left: 25vw;
+
+    }
+    .main_catalog-block {
+        padding-bottom: 5vh;
+    }
+    .about_us{
+        padding-left: 25vw;
+    }
+    .write_block{
+        flex-direction: column;
+        gap:2vh;
+        padding-left: 10vw;
+    }
+    
+    .navigator{
+        padding-left: 15vw;
+    }
+    nav li a{
+        padding: 6px 4px;
+    }
+ 
+    .count_text{
+        font-size: 3vw;
+    }
+    .view_catalog{
+        flex-direction: column;
+        gap: 3vw;
+        
+    }
+    .navigator{
+        flex-direction: column;
+    }
+    .catalog_shoop_block{
+        flex-direction: column;
+        margin-left: 5vw;
+        
+    }
+    .filter_block{
+        box-shadow: 0px 10px 25px 0px #77777733;
+        padding: 5vh 1vw;
+        max-width: 48vw;
+        max-height: 600px;
+        text-align: center;
+    }
+    .for_footer{
+        flex-wrap: wrap;
+        gap: 5vw;
+    }
+    
+}
